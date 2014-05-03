@@ -49,6 +49,8 @@
      <Compile Include="Assets\Scripts\Enemys\Health.js" />
      <Compile Include="Assets\Scripts\Player\Sprinting.js" />
      <Compile Include="Assets\Scripts\Tools\Axe_1.js" />
+     <Compile Include="Assets\Scripts\Tools\Knife_1.js" />
+     <None Include="Assets\test.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
